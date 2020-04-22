@@ -1,7 +1,7 @@
 <?php
 
 require_once 'vehicle.php';
-
+require_once 'car.php';
 
 
 $k2000= new car("black","2","fuel");
